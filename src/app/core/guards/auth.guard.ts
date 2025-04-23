@@ -1,0 +1,1 @@
+// # Protege rotas como /dashboard
